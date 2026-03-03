@@ -1,0 +1,22 @@
+# Video files
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.avi
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# YOLOv8 model weights
+*.pt
+
+# Output
+output_detected.mp4
+screenshot_*.png
+
+# OS
+.DS_Store
